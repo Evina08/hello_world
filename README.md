@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Nama : Evina Dinda Syawalia
+Kelas : MI-2B
+NIM : 1931710072
+
+![hasil praktikum](image/hello_world.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
